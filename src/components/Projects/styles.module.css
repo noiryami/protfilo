@@ -1,0 +1,46 @@
+.containerProjects {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.protfolioItem {
+  width: 31%;
+  margin-bottom: 50px;
+  background: var(--color-bg-variant);
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.protfolioItemImage {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.protfolioItem h3 {
+  margin: 22px 0 35px;
+}
+
+.protfolioItemBtns {
+  display: flex;
+  margin-bottom: 15px;
+  gap: 20px;
+}
+
+/*respmsive */
+
+
+@media (max-width: 1024px) {
+  .protfolioItem {
+    width: 48%;
+  }
+}
+
+@media (max-width: 600px) {
+    .protfolioItem{
+        width: 100% ;
+    }
+}
+
