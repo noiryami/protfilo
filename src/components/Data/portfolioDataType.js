@@ -6,7 +6,7 @@ const portfolioDataType = [
       "https://tse3.mm.bing.net/th/id/OIP.veNVVPOWELQO3LKARwKwywHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
     title: "Ecommerce Website",
     github: "https://github.com/noiryami/eCommerce1/tree/last",
-    demo: "https://e-commerce1-9tjy.vercel.app",
+    demo: "https://e-commerce1-9tjy-2616odicv-muhammad-kamels-projects.vercel.app/",
   },
   {
     id: 2,
@@ -14,7 +14,7 @@ const portfolioDataType = [
       "https://thumbs.dreamstime.com/b/image-very-suitable-religious-designs-islamic-times-prayer-unique-designs-shapes-308576615.jpg",
     title: "Prayer Times website",
     github: "https://github.com/noiryami/prayer",
-    demo: "https://prayer-cyan.vercel.app",
+    demo: "https://prayer-digkebiam-muhammad-kamels-projects.vercel.app/",
   },
 ];
 

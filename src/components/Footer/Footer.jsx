@@ -44,7 +44,7 @@ const Footer = () => {
           <FaWhatsapp />
         </a>
       </div>
-
+    
       <div className={footerCopyright}>
         <small>
           &copy; <a href="#">Muhammad Kamel</a> All rights reseved
